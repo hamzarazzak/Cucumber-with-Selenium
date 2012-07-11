@@ -1,0 +1,23 @@
+Given /^I have landed on "([^"]*)"$/ do |url|
+  visit url
+end
+
+When /^I have clicked on "([^"]*)"$/ do |accommodation|
+  click_link accommodation
+end
+
+And /^I have navigated to "([^"]*)"$/ do |tab|
+  click_link tab
+  #locate(:css,tab).click
+end
+
+And /^I select "([^"]*)"$/ do |selection|
+ click_link selection
+ # locate(:css,selection).click
+end
+
+Then /^I expect see "([^"]*)"$/ do |text|
+  page.has_content? text
+  #assert_contain text
+  #assert page.find(text).visible? !=true
+end
