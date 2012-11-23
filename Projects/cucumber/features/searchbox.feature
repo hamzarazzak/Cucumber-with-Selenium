@@ -1,5 +1,4 @@
-Feature: Search for cheapest offer
-  I want to check if offer list works
+Feature: Click on elmar promotions
 
   Scenario: Searching for offer inside offer list
     Given I have landed on "http://www.elmar.nl"
