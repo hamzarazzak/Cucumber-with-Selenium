@@ -7,7 +7,7 @@ require 'factory_girl'
 require 'capybara'
 require 'capybara/dsl'
 require 'capybara/rspec/matchers'
-
+require 'capybara/cucumber'
 
 World(Capybara::DSL)
 
@@ -16,7 +16,7 @@ World(Capybara::RSpecMatchers)
 Capybara.default_driver = :selenium
 Capybara.default_wait_time = 5
 
-Capybara.register_driver :selenium_chrome do |app|
+Capybara.register_driver :selenium do |app|
   Capybara::Selenium::Driver.new(app, :browser => :chrome)
 end
 

@@ -3,7 +3,7 @@ Given /^I have landed on "([^"]*)"$/ do |url|
 end
 
 When /^I have clicked on "([^"]*)"$/ do |accommodation|
-  click_link accommodation
+  click_on accommodation
 end
 
 And /^I have navigated to "([^"]*)"$/ do |tab|
