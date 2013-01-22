@@ -1,0 +1,9 @@
+Feature: Click on elmar promotions
+
+  Scenario: Searching for offer inside offer list
+    Given I have landed on "http://www.elmar.nl"
+    When I have clicked on "Pilot's Villas"
+    When I have clicked on "/vakantie/griekenland/kreta/koutouloufari/pilots_villas.htm?initial_flexible=2&range_duration=8&transport=VL&range_departuredate=20-06-2013&initial_departuredate=03-12-2012&initial_duration=6<duration<10&verticalName=NONE
+    And I have navigated to "priceInfo"
+    And I select "traveloptions:j_id107:10:selectroom"
+    Then I expect see "1-kamer"

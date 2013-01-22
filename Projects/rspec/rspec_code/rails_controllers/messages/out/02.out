@@ -1,3 +1,0 @@
-MessagesController POST create creates a new message
-  Failure/Error: Message.should_receive(:new).with("text" => "a quick brown fox")
-  uninitialized constant Message

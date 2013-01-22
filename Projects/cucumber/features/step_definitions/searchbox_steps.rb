@@ -2,18 +2,8 @@ Given /^I have landed on "([^"]*)"$/ do |url|
   visit url
 end
 
-When /^I have clicked on "([^"]*)"$/ do |accommodation|
-  click_on accommodation
-end
-
-And /^I have navigated to "([^"]*)"$/ do |tab|
-  click_link tab
-  #locate(:css,tab).click
-end
-
-And /^I select "([^"]*)"$/ do |selection|
- click_link selection
- # locate(:css,selection).click
+When /^I have clicked on "([^"]*)"$/ do |link|
+  click_on link
 end
 
 Then /^I expect see "([^"]*)"$/ do |text|

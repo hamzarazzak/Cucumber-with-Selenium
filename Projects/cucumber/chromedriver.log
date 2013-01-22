@@ -1,5 +1,5 @@
 [0.000][INFO]:      ChromeDriver 23.0.1240.0 /usr/local/bin/chromedriver
-[0.012][FINE]:      Initializing session with capabilities {
+[0.263][FINE]:      Initializing session with capabilities {
    "browserName": "chrome",
    "chrome.detach": true,
    "chromeOptions": {
@@ -14,11 +14,11 @@
    "version": ""
 }
 
-[0.012][INFO]:      Using named testing interface
-[0.513][INFO]:      Connected to Chrome successfully. Version: 22.0.1229.94
-[0.516][FINE]:      Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7)
-[0.516][FINE]:      Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[0.264][INFO]:      Using named testing interface
+[0.765][INFO]:      Connected to Chrome successfully. Version: 22.0.1229.94
+[0.769][FINE]:      Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a)
+[0.769][FINE]:      Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
    "value": {
       "acceptSslCerts": false,
@@ -41,1240 +41,1393 @@
    }
 }
 
-[0.517][FINE]:      Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/url) with params {
+[0.771][FINE]:      Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/url) with params {
    "url": "http://www.elmar.nl"
 }
 
-[0.517][FINER]:     Waiting for all views to stop loading...
-[0.517][FINER]:     Done waiting for all views to stop loading
-[9.759][FINER]:     Waiting for all views to stop loading...
-[9.862][FINER]:     Done waiting for all views to stop loading
-[9.862][FINE]:      Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/url) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[0.771][FINER]:     Waiting for all views to stop loading...
+[0.771][FINER]:     Done waiting for all views to stop loading
+[7.333][FINER]:     Waiting for all views to stop loading...
+[7.337][FINER]:     Done waiting for all views to stop loading
+[7.337][FINE]:      Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/url) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
    "value": {
 
    }
 }
 
-[9.889][FINE]:      Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[7.370][FINE]:      Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
    "value": ".//a[./@href][(((./@id = 'Alle vakantie bestemmingen' or contains(normalize-space(string(.)), 'Al..."
 }
 
-[9.889][FINER]:     Waiting for all views to stop loading...
-[9.890][FINER]:     Done waiting for all views to stop loading
-[9.909][FINER]:     Waiting for all views to stop loading...
-[9.910][FINER]:     Done waiting for all views to stop loading
-[9.910][FINE]:      Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[7.370][FINER]:     Waiting for all views to stop loading...
+[7.371][FINER]:     Done waiting for all views to stop loading
+[7.398][FINER]:     Waiting for all views to stop loading...
+[7.398][FINER]:     Done waiting for all views to stop loading
+[7.399][FINE]:      Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
    "value": [ {
-      "ELEMENT": ":wdc:1353927699707"
+      "ELEMENT": ":wdc:1358866918048"
    } ]
 }
 
-[9.924][FINE]:      Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/element/:wdc:1353927699707/click) with params {
+[7.413][FINE]:      Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866918048/click) with params {
 
 }
 
-[9.924][FINER]:     Waiting for all views to stop loading...
-[9.924][FINER]:     Done waiting for all views to stop loading
-[9.996][FINER]:     Waiting for all views to stop loading...
-[15.117][FINER]:    Done waiting for all views to stop loading
-[15.117][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/element/:wdc:1353927699707/click) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[7.413][FINER]:     Waiting for all views to stop loading...
+[7.414][FINER]:     Done waiting for all views to stop loading
+[7.476][FINER]:     Waiting for all views to stop loading...
+[15.187][FINER]:    Done waiting for all views to stop loading
+[15.187][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866918048/click) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
    "value": {
 
    }
 }
 
-[15.119][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[15.201][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[15.119][FINER]:    Waiting for all views to stop loading...
-[15.120][FINER]:    Done waiting for all views to stop loading
-[15.148][FINER]:    Waiting for all views to stop loading...
-[15.149][FINER]:    Done waiting for all views to stop loading
-[15.149][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[15.201][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
 [15.201][FINER]:    Waiting for all views to stop loading...
 [15.201][FINER]:    Done waiting for all views to stop loading
-[15.212][FINER]:    Waiting for all views to stop loading...
-[15.212][FINER]:    Done waiting for all views to stop loading
-[15.212][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[15.221][FINER]:    Waiting for all views to stop loading...
+[15.222][FINER]:    Done waiting for all views to stop loading
+[15.222][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[15.264][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[15.264][FINER]:    Waiting for all views to stop loading...
-[15.264][FINER]:    Done waiting for all views to stop loading
-[15.275][FINER]:    Waiting for all views to stop loading...
-[15.276][FINER]:    Done waiting for all views to stop loading
-[15.276][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[15.223][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[15.223][FINER]:    Waiting for all views to stop loading...
+[15.223][FINER]:    Done waiting for all views to stop loading
+[15.435][FINER]:    Waiting for all views to stop loading...
+[15.435][FINER]:    Done waiting for all views to stop loading
+[15.435][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[15.328][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[15.487][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[15.328][FINER]:    Waiting for all views to stop loading...
-[15.328][FINER]:    Done waiting for all views to stop loading
-[15.339][FINER]:    Waiting for all views to stop loading...
-[15.340][FINER]:    Done waiting for all views to stop loading
-[15.340][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[15.487][FINER]:    Waiting for all views to stop loading...
+[15.488][FINER]:    Done waiting for all views to stop loading
+[15.494][FINER]:    Waiting for all views to stop loading...
+[15.495][FINER]:    Done waiting for all views to stop loading
+[15.495][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[15.392][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[15.392][FINER]:    Waiting for all views to stop loading...
-[15.393][FINER]:    Done waiting for all views to stop loading
-[15.403][FINER]:    Waiting for all views to stop loading...
-[15.404][FINER]:    Done waiting for all views to stop loading
-[15.404][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[15.496][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[15.496][FINER]:    Waiting for all views to stop loading...
+[15.496][FINER]:    Done waiting for all views to stop loading
+[15.656][FINER]:    Waiting for all views to stop loading...
+[15.656][FINER]:    Done waiting for all views to stop loading
+[15.656][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[15.456][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[15.709][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[15.456][FINER]:    Waiting for all views to stop loading...
-[15.456][FINER]:    Done waiting for all views to stop loading
-[15.468][FINER]:    Waiting for all views to stop loading...
-[15.469][FINER]:    Done waiting for all views to stop loading
-[15.469][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[15.709][FINER]:    Waiting for all views to stop loading...
+[15.709][FINER]:    Done waiting for all views to stop loading
+[15.715][FINER]:    Waiting for all views to stop loading...
+[15.715][FINER]:    Done waiting for all views to stop loading
+[15.715][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[15.520][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[15.520][FINER]:    Waiting for all views to stop loading...
-[15.521][FINER]:    Done waiting for all views to stop loading
-[15.530][FINER]:    Waiting for all views to stop loading...
-[15.531][FINER]:    Done waiting for all views to stop loading
-[15.531][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[15.716][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[15.716][FINER]:    Waiting for all views to stop loading...
+[15.717][FINER]:    Done waiting for all views to stop loading
+[15.877][FINER]:    Waiting for all views to stop loading...
+[15.878][FINER]:    Done waiting for all views to stop loading
+[15.878][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[15.583][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[15.931][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[15.583][FINER]:    Waiting for all views to stop loading...
-[15.584][FINER]:    Done waiting for all views to stop loading
-[15.595][FINER]:    Waiting for all views to stop loading...
-[15.595][FINER]:    Done waiting for all views to stop loading
-[15.595][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[15.931][FINER]:    Waiting for all views to stop loading...
+[15.931][FINER]:    Done waiting for all views to stop loading
+[15.937][FINER]:    Waiting for all views to stop loading...
+[15.937][FINER]:    Done waiting for all views to stop loading
+[15.938][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[15.647][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[15.647][FINER]:    Waiting for all views to stop loading...
-[15.648][FINER]:    Done waiting for all views to stop loading
-[15.659][FINER]:    Waiting for all views to stop loading...
-[15.660][FINER]:    Done waiting for all views to stop loading
-[15.660][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[15.939][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[15.939][FINER]:    Waiting for all views to stop loading...
+[15.940][FINER]:    Done waiting for all views to stop loading
+[16.092][FINER]:    Waiting for all views to stop loading...
+[16.092][FINER]:    Done waiting for all views to stop loading
+[16.092][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[15.712][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[16.145][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[15.712][FINER]:    Waiting for all views to stop loading...
-[15.712][FINER]:    Done waiting for all views to stop loading
-[15.723][FINER]:    Waiting for all views to stop loading...
-[15.724][FINER]:    Done waiting for all views to stop loading
-[15.724][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[16.145][FINER]:    Waiting for all views to stop loading...
+[16.145][FINER]:    Done waiting for all views to stop loading
+[16.151][FINER]:    Waiting for all views to stop loading...
+[16.152][FINER]:    Done waiting for all views to stop loading
+[16.152][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[15.776][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[15.776][FINER]:    Waiting for all views to stop loading...
-[15.776][FINER]:    Done waiting for all views to stop loading
-[15.787][FINER]:    Waiting for all views to stop loading...
-[15.788][FINER]:    Done waiting for all views to stop loading
-[15.788][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[16.153][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[16.153][FINER]:    Waiting for all views to stop loading...
+[16.154][FINER]:    Done waiting for all views to stop loading
+[16.349][FINER]:    Waiting for all views to stop loading...
+[16.350][FINER]:    Done waiting for all views to stop loading
+[16.350][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[15.839][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[16.403][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[15.839][FINER]:    Waiting for all views to stop loading...
-[15.840][FINER]:    Done waiting for all views to stop loading
-[15.851][FINER]:    Waiting for all views to stop loading...
-[15.851][FINER]:    Done waiting for all views to stop loading
-[15.851][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[16.403][FINER]:    Waiting for all views to stop loading...
+[16.403][FINER]:    Done waiting for all views to stop loading
+[16.410][FINER]:    Waiting for all views to stop loading...
+[16.411][FINER]:    Done waiting for all views to stop loading
+[16.411][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[15.903][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[15.903][FINER]:    Waiting for all views to stop loading...
-[15.903][FINER]:    Done waiting for all views to stop loading
-[15.914][FINER]:    Waiting for all views to stop loading...
-[15.914][FINER]:    Done waiting for all views to stop loading
-[15.915][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[16.412][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[16.412][FINER]:    Waiting for all views to stop loading...
+[16.412][FINER]:    Done waiting for all views to stop loading
+[16.569][FINER]:    Waiting for all views to stop loading...
+[16.570][FINER]:    Done waiting for all views to stop loading
+[16.570][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[15.966][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[16.621][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[15.966][FINER]:    Waiting for all views to stop loading...
-[15.967][FINER]:    Done waiting for all views to stop loading
-[15.978][FINER]:    Waiting for all views to stop loading...
-[15.979][FINER]:    Done waiting for all views to stop loading
-[15.979][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[16.031][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[16.031][FINER]:    Waiting for all views to stop loading...
-[16.031][FINER]:    Done waiting for all views to stop loading
-[16.042][FINER]:    Waiting for all views to stop loading...
-[16.043][FINER]:    Done waiting for all views to stop loading
-[16.043][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[16.094][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[16.094][FINER]:    Waiting for all views to stop loading...
-[16.095][FINER]:    Done waiting for all views to stop loading
-[16.106][FINER]:    Waiting for all views to stop loading...
-[16.106][FINER]:    Done waiting for all views to stop loading
-[16.106][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[16.158][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[16.158][FINER]:    Waiting for all views to stop loading...
-[16.159][FINER]:    Done waiting for all views to stop loading
-[16.169][FINER]:    Waiting for all views to stop loading...
-[16.170][FINER]:    Done waiting for all views to stop loading
-[16.170][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[16.242][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[16.242][FINER]:    Waiting for all views to stop loading...
-[16.243][FINER]:    Done waiting for all views to stop loading
-[16.253][FINER]:    Waiting for all views to stop loading...
-[16.254][FINER]:    Done waiting for all views to stop loading
-[16.254][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[16.306][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[16.306][FINER]:    Waiting for all views to stop loading...
-[16.307][FINER]:    Done waiting for all views to stop loading
-[16.318][FINER]:    Waiting for all views to stop loading...
-[16.318][FINER]:    Done waiting for all views to stop loading
-[16.318][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[16.370][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[16.370][FINER]:    Waiting for all views to stop loading...
-[16.371][FINER]:    Done waiting for all views to stop loading
-[16.382][FINER]:    Waiting for all views to stop loading...
-[16.382][FINER]:    Done waiting for all views to stop loading
-[16.382][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[16.434][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[16.434][FINER]:    Waiting for all views to stop loading...
-[16.435][FINER]:    Done waiting for all views to stop loading
-[16.445][FINER]:    Waiting for all views to stop loading...
-[16.446][FINER]:    Done waiting for all views to stop loading
-[16.446][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[16.498][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[16.498][FINER]:    Waiting for all views to stop loading...
-[16.498][FINER]:    Done waiting for all views to stop loading
-[16.509][FINER]:    Waiting for all views to stop loading...
-[16.510][FINER]:    Done waiting for all views to stop loading
-[16.510][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[16.561][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[16.561][FINER]:    Waiting for all views to stop loading...
-[16.562][FINER]:    Done waiting for all views to stop loading
-[16.573][FINER]:    Waiting for all views to stop loading...
-[16.573][FINER]:    Done waiting for all views to stop loading
-[16.573][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[16.625][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[16.625][FINER]:    Waiting for all views to stop loading...
+[16.621][FINER]:    Waiting for all views to stop loading...
+[16.622][FINER]:    Done waiting for all views to stop loading
+[16.626][FINER]:    Waiting for all views to stop loading...
 [16.626][FINER]:    Done waiting for all views to stop loading
-[16.637][FINER]:    Waiting for all views to stop loading...
-[16.637][FINER]:    Done waiting for all views to stop loading
-[16.637][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[16.626][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[16.689][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[16.689][FINER]:    Waiting for all views to stop loading...
-[16.690][FINER]:    Done waiting for all views to stop loading
-[16.700][FINER]:    Waiting for all views to stop loading...
-[16.701][FINER]:    Done waiting for all views to stop loading
-[16.701][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[16.627][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[16.627][FINER]:    Waiting for all views to stop loading...
+[16.628][FINER]:    Done waiting for all views to stop loading
+[16.779][FINER]:    Waiting for all views to stop loading...
+[16.780][FINER]:    Done waiting for all views to stop loading
+[16.780][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[16.753][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[16.833][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[16.753][FINER]:    Waiting for all views to stop loading...
-[16.753][FINER]:    Done waiting for all views to stop loading
-[16.762][FINER]:    Waiting for all views to stop loading...
-[16.763][FINER]:    Done waiting for all views to stop loading
-[16.763][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[16.833][FINER]:    Waiting for all views to stop loading...
+[16.833][FINER]:    Done waiting for all views to stop loading
+[16.840][FINER]:    Waiting for all views to stop loading...
+[16.840][FINER]:    Done waiting for all views to stop loading
+[16.840][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[16.815][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[16.815][FINER]:    Waiting for all views to stop loading...
-[16.815][FINER]:    Done waiting for all views to stop loading
-[16.827][FINER]:    Waiting for all views to stop loading...
-[16.828][FINER]:    Done waiting for all views to stop loading
-[16.828][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[16.842][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[16.842][FINER]:    Waiting for all views to stop loading...
+[16.842][FINER]:    Done waiting for all views to stop loading
+[17.010][FINER]:    Waiting for all views to stop loading...
+[17.010][FINER]:    Done waiting for all views to stop loading
+[17.010][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[16.879][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[17.062][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[16.879][FINER]:    Waiting for all views to stop loading...
-[16.880][FINER]:    Done waiting for all views to stop loading
-[16.891][FINER]:    Waiting for all views to stop loading...
-[16.891][FINER]:    Done waiting for all views to stop loading
-[16.891][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[17.062][FINER]:    Waiting for all views to stop loading...
+[17.063][FINER]:    Done waiting for all views to stop loading
+[17.069][FINER]:    Waiting for all views to stop loading...
+[17.070][FINER]:    Done waiting for all views to stop loading
+[17.070][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[16.943][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[16.943][FINER]:    Waiting for all views to stop loading...
-[16.944][FINER]:    Done waiting for all views to stop loading
-[16.954][FINER]:    Waiting for all views to stop loading...
-[16.955][FINER]:    Done waiting for all views to stop loading
-[16.955][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[17.071][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[17.071][FINER]:    Waiting for all views to stop loading...
+[17.072][FINER]:    Done waiting for all views to stop loading
+[17.231][FINER]:    Waiting for all views to stop loading...
+[17.231][FINER]:    Done waiting for all views to stop loading
+[17.231][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[17.006][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[17.283][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[17.006][FINER]:    Waiting for all views to stop loading...
-[17.007][FINER]:    Done waiting for all views to stop loading
-[17.018][FINER]:    Waiting for all views to stop loading...
-[17.018][FINER]:    Done waiting for all views to stop loading
-[17.018][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[17.283][FINER]:    Waiting for all views to stop loading...
+[17.284][FINER]:    Done waiting for all views to stop loading
+[17.290][FINER]:    Waiting for all views to stop loading...
+[17.291][FINER]:    Done waiting for all views to stop loading
+[17.291][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[17.070][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[17.070][FINER]:    Waiting for all views to stop loading...
-[17.071][FINER]:    Done waiting for all views to stop loading
-[17.081][FINER]:    Waiting for all views to stop loading...
-[17.082][FINER]:    Done waiting for all views to stop loading
-[17.082][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[17.292][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[17.292][FINER]:    Waiting for all views to stop loading...
+[17.292][FINER]:    Done waiting for all views to stop loading
+[17.451][FINER]:    Waiting for all views to stop loading...
+[17.451][FINER]:    Done waiting for all views to stop loading
+[17.452][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[17.134][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[17.504][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[17.134][FINER]:    Waiting for all views to stop loading...
-[17.134][FINER]:    Done waiting for all views to stop loading
-[17.145][FINER]:    Waiting for all views to stop loading...
-[17.146][FINER]:    Done waiting for all views to stop loading
-[17.146][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[17.505][FINER]:    Waiting for all views to stop loading...
+[17.505][FINER]:    Done waiting for all views to stop loading
+[17.510][FINER]:    Waiting for all views to stop loading...
+[17.511][FINER]:    Done waiting for all views to stop loading
+[17.511][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[17.198][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[17.198][FINER]:    Waiting for all views to stop loading...
-[17.198][FINER]:    Done waiting for all views to stop loading
-[17.209][FINER]:    Waiting for all views to stop loading...
-[17.209][FINER]:    Done waiting for all views to stop loading
-[17.209][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[17.512][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[17.512][FINER]:    Waiting for all views to stop loading...
+[17.512][FINER]:    Done waiting for all views to stop loading
+[17.684][FINER]:    Waiting for all views to stop loading...
+[17.685][FINER]:    Done waiting for all views to stop loading
+[17.685][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[17.261][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[17.737][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[17.261][FINER]:    Waiting for all views to stop loading...
-[17.262][FINER]:    Done waiting for all views to stop loading
-[17.272][FINER]:    Waiting for all views to stop loading...
-[17.272][FINER]:    Done waiting for all views to stop loading
-[17.272][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[17.737][FINER]:    Waiting for all views to stop loading...
+[17.737][FINER]:    Done waiting for all views to stop loading
+[17.744][FINER]:    Waiting for all views to stop loading...
+[17.744][FINER]:    Done waiting for all views to stop loading
+[17.744][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[17.324][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[17.324][FINER]:    Waiting for all views to stop loading...
-[17.325][FINER]:    Done waiting for all views to stop loading
-[17.336][FINER]:    Waiting for all views to stop loading...
-[17.336][FINER]:    Done waiting for all views to stop loading
-[17.336][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[17.746][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[17.746][FINER]:    Waiting for all views to stop loading...
+[17.746][FINER]:    Done waiting for all views to stop loading
+[17.976][FINER]:    Waiting for all views to stop loading...
+[17.977][FINER]:    Done waiting for all views to stop loading
+[17.977][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[17.388][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[18.030][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[17.388][FINER]:    Waiting for all views to stop loading...
-[17.389][FINER]:    Done waiting for all views to stop loading
-[17.397][FINER]:    Waiting for all views to stop loading...
-[17.398][FINER]:    Done waiting for all views to stop loading
-[17.398][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[18.030][FINER]:    Waiting for all views to stop loading...
+[18.030][FINER]:    Done waiting for all views to stop loading
+[18.036][FINER]:    Waiting for all views to stop loading...
+[18.037][FINER]:    Done waiting for all views to stop loading
+[18.037][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[17.449][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[17.449][FINER]:    Waiting for all views to stop loading...
-[17.450][FINER]:    Done waiting for all views to stop loading
-[17.461][FINER]:    Waiting for all views to stop loading...
-[17.461][FINER]:    Done waiting for all views to stop loading
-[17.462][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[18.038][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[18.038][FINER]:    Waiting for all views to stop loading...
+[18.038][FINER]:    Done waiting for all views to stop loading
+[18.184][FINER]:    Waiting for all views to stop loading...
+[18.184][FINER]:    Done waiting for all views to stop loading
+[18.184][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[17.513][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[18.236][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[17.513][FINER]:    Waiting for all views to stop loading...
-[17.514][FINER]:    Done waiting for all views to stop loading
-[17.525][FINER]:    Waiting for all views to stop loading...
-[17.525][FINER]:    Done waiting for all views to stop loading
-[17.525][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[18.236][FINER]:    Waiting for all views to stop loading...
+[18.237][FINER]:    Done waiting for all views to stop loading
+[18.244][FINER]:    Waiting for all views to stop loading...
+[18.244][FINER]:    Done waiting for all views to stop loading
+[18.244][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[17.577][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[17.577][FINER]:    Waiting for all views to stop loading...
-[17.578][FINER]:    Done waiting for all views to stop loading
-[17.589][FINER]:    Waiting for all views to stop loading...
-[17.589][FINER]:    Done waiting for all views to stop loading
-[17.589][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[18.246][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[18.246][FINER]:    Waiting for all views to stop loading...
+[18.246][FINER]:    Done waiting for all views to stop loading
+[18.395][FINER]:    Waiting for all views to stop loading...
+[18.396][FINER]:    Done waiting for all views to stop loading
+[18.396][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[17.641][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[18.449][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[17.641][FINER]:    Waiting for all views to stop loading...
-[17.641][FINER]:    Done waiting for all views to stop loading
-[17.652][FINER]:    Waiting for all views to stop loading...
-[17.652][FINER]:    Done waiting for all views to stop loading
-[17.653][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[18.449][FINER]:    Waiting for all views to stop loading...
+[18.449][FINER]:    Done waiting for all views to stop loading
+[18.455][FINER]:    Waiting for all views to stop loading...
+[18.456][FINER]:    Done waiting for all views to stop loading
+[18.456][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[17.704][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[17.704][FINER]:    Waiting for all views to stop loading...
-[17.705][FINER]:    Done waiting for all views to stop loading
-[17.715][FINER]:    Waiting for all views to stop loading...
-[17.716][FINER]:    Done waiting for all views to stop loading
-[17.716][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[18.457][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[18.457][FINER]:    Waiting for all views to stop loading...
+[18.457][FINER]:    Done waiting for all views to stop loading
+[18.614][FINER]:    Waiting for all views to stop loading...
+[18.614][FINER]:    Done waiting for all views to stop loading
+[18.614][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[17.768][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[18.667][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[17.768][FINER]:    Waiting for all views to stop loading...
-[17.768][FINER]:    Done waiting for all views to stop loading
-[17.779][FINER]:    Waiting for all views to stop loading...
-[17.780][FINER]:    Done waiting for all views to stop loading
-[17.780][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[17.832][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[17.832][FINER]:    Waiting for all views to stop loading...
-[17.832][FINER]:    Done waiting for all views to stop loading
-[17.843][FINER]:    Waiting for all views to stop loading...
-[17.843][FINER]:    Done waiting for all views to stop loading
-[17.843][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[17.895][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[17.895][FINER]:    Waiting for all views to stop loading...
-[17.896][FINER]:    Done waiting for all views to stop loading
-[17.902][FINER]:    Waiting for all views to stop loading...
-[17.903][FINER]:    Done waiting for all views to stop loading
-[17.903][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[17.954][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[17.954][FINER]:    Waiting for all views to stop loading...
-[17.955][FINER]:    Done waiting for all views to stop loading
-[17.966][FINER]:    Waiting for all views to stop loading...
-[17.967][FINER]:    Done waiting for all views to stop loading
-[17.967][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[18.019][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[18.019][FINER]:    Waiting for all views to stop loading...
-[18.019][FINER]:    Done waiting for all views to stop loading
-[18.031][FINER]:    Waiting for all views to stop loading...
-[18.031][FINER]:    Done waiting for all views to stop loading
-[18.031][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[18.083][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[18.083][FINER]:    Waiting for all views to stop loading...
-[18.084][FINER]:    Done waiting for all views to stop loading
-[18.095][FINER]:    Waiting for all views to stop loading...
-[18.095][FINER]:    Done waiting for all views to stop loading
-[18.095][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[18.147][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[18.147][FINER]:    Waiting for all views to stop loading...
-[18.148][FINER]:    Done waiting for all views to stop loading
-[18.158][FINER]:    Waiting for all views to stop loading...
-[18.159][FINER]:    Done waiting for all views to stop loading
-[18.159][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[18.211][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[18.211][FINER]:    Waiting for all views to stop loading...
-[18.211][FINER]:    Done waiting for all views to stop loading
-[18.222][FINER]:    Waiting for all views to stop loading...
-[18.222][FINER]:    Done waiting for all views to stop loading
-[18.222][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[18.274][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[18.274][FINER]:    Waiting for all views to stop loading...
-[18.275][FINER]:    Done waiting for all views to stop loading
-[18.287][FINER]:    Waiting for all views to stop loading...
-[18.287][FINER]:    Done waiting for all views to stop loading
-[18.287][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[18.339][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[18.339][FINER]:    Waiting for all views to stop loading...
-[18.340][FINER]:    Done waiting for all views to stop loading
-[18.350][FINER]:    Waiting for all views to stop loading...
-[18.351][FINER]:    Done waiting for all views to stop loading
-[18.351][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[18.403][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[18.403][FINER]:    Waiting for all views to stop loading...
-[18.403][FINER]:    Done waiting for all views to stop loading
-[18.415][FINER]:    Waiting for all views to stop loading...
-[18.416][FINER]:    Done waiting for all views to stop loading
-[18.416][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[18.468][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[18.468][FINER]:    Waiting for all views to stop loading...
-[18.469][FINER]:    Done waiting for all views to stop loading
-[18.479][FINER]:    Waiting for all views to stop loading...
-[18.480][FINER]:    Done waiting for all views to stop loading
-[18.480][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[18.532][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[18.532][FINER]:    Waiting for all views to stop loading...
-[18.532][FINER]:    Done waiting for all views to stop loading
-[18.544][FINER]:    Waiting for all views to stop loading...
-[18.545][FINER]:    Done waiting for all views to stop loading
-[18.545][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[18.596][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[18.596][FINER]:    Waiting for all views to stop loading...
-[18.596][FINER]:    Done waiting for all views to stop loading
-[18.603][FINER]:    Waiting for all views to stop loading...
-[18.603][FINER]:    Done waiting for all views to stop loading
-[18.603][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[18.655][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[18.655][FINER]:    Waiting for all views to stop loading...
-[18.656][FINER]:    Done waiting for all views to stop loading
 [18.667][FINER]:    Waiting for all views to stop loading...
-[18.668][FINER]:    Done waiting for all views to stop loading
-[18.668][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[18.667][FINER]:    Done waiting for all views to stop loading
+[18.674][FINER]:    Waiting for all views to stop loading...
+[18.674][FINER]:    Done waiting for all views to stop loading
+[18.674][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[18.720][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[18.720][FINER]:    Waiting for all views to stop loading...
-[18.721][FINER]:    Done waiting for all views to stop loading
-[18.731][FINER]:    Waiting for all views to stop loading...
-[18.732][FINER]:    Done waiting for all views to stop loading
-[18.732][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[18.675][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[18.675][FINER]:    Waiting for all views to stop loading...
+[18.676][FINER]:    Done waiting for all views to stop loading
+[18.828][FINER]:    Waiting for all views to stop loading...
+[18.829][FINER]:    Done waiting for all views to stop loading
+[18.830][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[18.784][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[18.882][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[18.784][FINER]:    Waiting for all views to stop loading...
-[18.785][FINER]:    Done waiting for all views to stop loading
-[18.795][FINER]:    Waiting for all views to stop loading...
-[18.796][FINER]:    Done waiting for all views to stop loading
-[18.796][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[18.882][FINER]:    Waiting for all views to stop loading...
+[18.883][FINER]:    Done waiting for all views to stop loading
+[18.889][FINER]:    Waiting for all views to stop loading...
+[18.889][FINER]:    Done waiting for all views to stop loading
+[18.889][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[18.848][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[18.848][FINER]:    Waiting for all views to stop loading...
-[18.848][FINER]:    Done waiting for all views to stop loading
-[18.859][FINER]:    Waiting for all views to stop loading...
-[18.859][FINER]:    Done waiting for all views to stop loading
-[18.859][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[18.890][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[18.890][FINER]:    Waiting for all views to stop loading...
+[18.891][FINER]:    Done waiting for all views to stop loading
+[19.042][FINER]:    Waiting for all views to stop loading...
+[19.043][FINER]:    Done waiting for all views to stop loading
+[19.043][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[18.911][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[19.095][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[18.911][FINER]:    Waiting for all views to stop loading...
-[18.912][FINER]:    Done waiting for all views to stop loading
-[18.923][FINER]:    Waiting for all views to stop loading...
-[18.923][FINER]:    Done waiting for all views to stop loading
-[18.923][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[19.095][FINER]:    Waiting for all views to stop loading...
+[19.095][FINER]:    Done waiting for all views to stop loading
+[19.101][FINER]:    Waiting for all views to stop loading...
+[19.102][FINER]:    Done waiting for all views to stop loading
+[19.102][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[18.975][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[18.975][FINER]:    Waiting for all views to stop loading...
-[18.976][FINER]:    Done waiting for all views to stop loading
-[18.987][FINER]:    Waiting for all views to stop loading...
-[18.987][FINER]:    Done waiting for all views to stop loading
-[18.987][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[19.039][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[19.039][FINER]:    Waiting for all views to stop loading...
-[19.040][FINER]:    Done waiting for all views to stop loading
-[19.050][FINER]:    Waiting for all views to stop loading...
-[19.051][FINER]:    Done waiting for all views to stop loading
-[19.051][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[19.103][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
+[19.103][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
 [19.103][FINER]:    Waiting for all views to stop loading...
-[19.103][FINER]:    Done waiting for all views to stop loading
-[19.114][FINER]:    Waiting for all views to stop loading...
-[19.115][FINER]:    Done waiting for all views to stop loading
-[19.115][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[19.104][FINER]:    Done waiting for all views to stop loading
+[19.258][FINER]:    Waiting for all views to stop loading...
+[19.259][FINER]:    Done waiting for all views to stop loading
+[19.259][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[19.167][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[19.311][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[19.167][FINER]:    Waiting for all views to stop loading...
-[19.167][FINER]:    Done waiting for all views to stop loading
-[19.178][FINER]:    Waiting for all views to stop loading...
-[19.179][FINER]:    Done waiting for all views to stop loading
-[19.179][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[19.311][FINER]:    Waiting for all views to stop loading...
+[19.312][FINER]:    Done waiting for all views to stop loading
+[19.319][FINER]:    Waiting for all views to stop loading...
+[19.319][FINER]:    Done waiting for all views to stop loading
+[19.319][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[19.231][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[19.231][FINER]:    Waiting for all views to stop loading...
-[19.232][FINER]:    Done waiting for all views to stop loading
-[19.243][FINER]:    Waiting for all views to stop loading...
-[19.244][FINER]:    Done waiting for all views to stop loading
-[19.244][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[19.320][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[19.320][FINER]:    Waiting for all views to stop loading...
+[19.321][FINER]:    Done waiting for all views to stop loading
+[19.493][FINER]:    Waiting for all views to stop loading...
+[19.494][FINER]:    Done waiting for all views to stop loading
+[19.494][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[19.295][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[19.546][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[19.296][FINER]:    Waiting for all views to stop loading...
-[19.296][FINER]:    Done waiting for all views to stop loading
-[19.307][FINER]:    Waiting for all views to stop loading...
-[19.308][FINER]:    Done waiting for all views to stop loading
-[19.308][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[19.547][FINER]:    Waiting for all views to stop loading...
+[19.547][FINER]:    Done waiting for all views to stop loading
+[19.553][FINER]:    Waiting for all views to stop loading...
+[19.554][FINER]:    Done waiting for all views to stop loading
+[19.554][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[19.359][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[19.359][FINER]:    Waiting for all views to stop loading...
-[19.360][FINER]:    Done waiting for all views to stop loading
-[19.371][FINER]:    Waiting for all views to stop loading...
-[19.371][FINER]:    Done waiting for all views to stop loading
-[19.371][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[19.555][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[19.555][FINER]:    Waiting for all views to stop loading...
+[19.556][FINER]:    Done waiting for all views to stop loading
+[19.702][FINER]:    Waiting for all views to stop loading...
+[19.702][FINER]:    Done waiting for all views to stop loading
+[19.703][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[19.423][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[19.755][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[19.423][FINER]:    Waiting for all views to stop loading...
-[19.424][FINER]:    Done waiting for all views to stop loading
-[19.434][FINER]:    Waiting for all views to stop loading...
-[19.435][FINER]:    Done waiting for all views to stop loading
-[19.435][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[19.755][FINER]:    Waiting for all views to stop loading...
+[19.755][FINER]:    Done waiting for all views to stop loading
+[19.758][FINER]:    Waiting for all views to stop loading...
+[19.758][FINER]:    Done waiting for all views to stop loading
+[19.758][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[19.487][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[19.487][FINER]:    Waiting for all views to stop loading...
-[19.488][FINER]:    Done waiting for all views to stop loading
-[19.498][FINER]:    Waiting for all views to stop loading...
-[19.499][FINER]:    Done waiting for all views to stop loading
-[19.499][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[19.551][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[19.551][FINER]:    Waiting for all views to stop loading...
-[19.551][FINER]:    Done waiting for all views to stop loading
-[19.568][FINER]:    Waiting for all views to stop loading...
-[19.569][FINER]:    Done waiting for all views to stop loading
-[19.569][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[19.620][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[19.621][FINER]:    Waiting for all views to stop loading...
-[19.621][FINER]:    Done waiting for all views to stop loading
-[19.632][FINER]:    Waiting for all views to stop loading...
-[19.632][FINER]:    Done waiting for all views to stop loading
-[19.632][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[19.684][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[19.684][FINER]:    Waiting for all views to stop loading...
-[19.685][FINER]:    Done waiting for all views to stop loading
-[19.696][FINER]:    Waiting for all views to stop loading...
-[19.697][FINER]:    Done waiting for all views to stop loading
-[19.697][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
-   "status": 0,
-   "value": [  ]
-}
-
-[19.748][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
-   "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
-}
-
-[19.748][FINER]:    Waiting for all views to stop loading...
-[19.749][FINER]:    Done waiting for all views to stop loading
+[19.759][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
 [19.759][FINER]:    Waiting for all views to stop loading...
 [19.760][FINER]:    Done waiting for all views to stop loading
-[19.760][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[19.902][FINER]:    Waiting for all views to stop loading...
+[19.902][FINER]:    Done waiting for all views to stop loading
+[19.902][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
 }
 
-[19.812][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[19.955][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[19.812][FINER]:    Waiting for all views to stop loading...
-[19.813][FINER]:    Done waiting for all views to stop loading
-[19.823][FINER]:    Waiting for all views to stop loading...
-[19.824][FINER]:    Done waiting for all views to stop loading
-[19.824][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[19.955][FINER]:    Waiting for all views to stop loading...
+[19.955][FINER]:    Done waiting for all views to stop loading
+[19.961][FINER]:    Waiting for all views to stop loading...
+[19.961][FINER]:    Done waiting for all views to stop loading
+[19.961][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[19.876][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[19.962][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[19.962][FINER]:    Waiting for all views to stop loading...
+[19.963][FINER]:    Done waiting for all views to stop loading
+[20.113][FINER]:    Waiting for all views to stop loading...
+[20.113][FINER]:    Done waiting for all views to stop loading
+[20.113][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[20.166][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[19.876][FINER]:    Waiting for all views to stop loading...
-[19.876][FINER]:    Done waiting for all views to stop loading
-[19.887][FINER]:    Waiting for all views to stop loading...
-[19.887][FINER]:    Done waiting for all views to stop loading
-[19.888][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[20.166][FINER]:    Waiting for all views to stop loading...
+[20.166][FINER]:    Done waiting for all views to stop loading
+[20.173][FINER]:    Waiting for all views to stop loading...
+[20.173][FINER]:    Done waiting for all views to stop loading
+[20.173][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866925871"
+   } ]
 }
 
-[19.939][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[20.174][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text)
+[20.174][FINER]:    Waiting for all views to stop loading...
+[20.175][FINER]:    Done waiting for all views to stop loading
+[20.344][FINER]:    Waiting for all views to stop loading...
+[20.344][FINER]:    Done waiting for all views to stop loading
+[20.345][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866925871/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[20.348][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/cookie)
+[20.348][FINER]:    Waiting for all views to stop loading...
+[20.348][FINER]:    Done waiting for all views to stop loading
+[20.356][FINER]:    Waiting for all views to stop loading...
+[20.357][FINER]:    Done waiting for all views to stop loading
+[20.357][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/cookie) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[20.357][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/url) with params {
+   "url": "about:blank"
+}
+
+[20.357][FINER]:    Waiting for all views to stop loading...
+[20.358][FINER]:    Done waiting for all views to stop loading
+[20.406][FINER]:    Waiting for all views to stop loading...
+[20.407][FINER]:    Done waiting for all views to stop loading
+[20.407][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/url) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[20.408][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/url) with params {
+   "url": "http://www.elmar.nl"
+}
+
+[20.408][FINER]:    Waiting for all views to stop loading...
+[20.409][FINER]:    Done waiting for all views to stop loading
+[24.227][FINER]:    Waiting for all views to stop loading...
+[24.228][FINER]:    Done waiting for all views to stop loading
+[24.228][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/url) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[24.231][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": ".//a[./@href][(((./@id = 'Alle vakantie bestemmingen' or contains(normalize-space(string(.)), 'Al..."
 }
 
-[19.939][FINER]:    Waiting for all views to stop loading...
-[19.940][FINER]:    Done waiting for all views to stop loading
-[19.951][FINER]:    Waiting for all views to stop loading...
-[19.952][FINER]:    Done waiting for all views to stop loading
-[19.952][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[24.231][FINER]:    Waiting for all views to stop loading...
+[24.231][FINER]:    Done waiting for all views to stop loading
+[24.255][FINER]:    Waiting for all views to stop loading...
+[24.256][FINER]:    Done waiting for all views to stop loading
+[24.256][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866934905"
+   } ]
 }
 
-[20.003][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[24.257][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866934905/click) with params {
+
+}
+
+[24.257][FINER]:    Waiting for all views to stop loading...
+[24.257][FINER]:    Done waiting for all views to stop loading
+[24.303][FINER]:    Waiting for all views to stop loading...
+[24.978][FINER]:    Done waiting for all views to stop loading
+[24.978][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866934905/click) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[24.979][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[20.004][FINER]:    Waiting for all views to stop loading...
-[20.004][FINER]:    Done waiting for all views to stop loading
-[20.015][FINER]:    Waiting for all views to stop loading...
-[20.015][FINER]:    Done waiting for all views to stop loading
-[20.015][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[24.979][FINER]:    Waiting for all views to stop loading...
+[24.981][FINER]:    Done waiting for all views to stop loading
+[24.994][FINER]:    Waiting for all views to stop loading...
+[24.994][FINER]:    Done waiting for all views to stop loading
+[24.994][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
 }
 
-[20.067][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[24.995][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[24.995][FINER]:    Waiting for all views to stop loading...
+[24.995][FINER]:    Done waiting for all views to stop loading
+[25.193][FINER]:    Waiting for all views to stop loading...
+[25.194][FINER]:    Done waiting for all views to stop loading
+[25.194][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[25.246][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[20.067][FINER]:    Waiting for all views to stop loading...
-[20.068][FINER]:    Done waiting for all views to stop loading
-[20.078][FINER]:    Waiting for all views to stop loading...
-[20.079][FINER]:    Done waiting for all views to stop loading
-[20.079][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[25.246][FINER]:    Waiting for all views to stop loading...
+[25.247][FINER]:    Done waiting for all views to stop loading
+[25.252][FINER]:    Waiting for all views to stop loading...
+[25.253][FINER]:    Done waiting for all views to stop loading
+[25.253][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
 }
 
-[20.131][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with params {
+[25.254][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[25.254][FINER]:    Waiting for all views to stop loading...
+[25.255][FINER]:    Done waiting for all views to stop loading
+[25.418][FINER]:    Waiting for all views to stop loading...
+[25.419][FINER]:    Done waiting for all views to stop loading
+[25.419][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[25.471][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
    "using": "xpath",
-   "value": ".//a[./@href][(((./@id = 'Bekijk prijzen' or contains(normalize-space(string(.)), 'Bekijk prijzen..."
+   "value": "/html"
 }
 
-[20.131][FINER]:    Waiting for all views to stop loading...
-[20.131][FINER]:    Done waiting for all views to stop loading
-[20.142][FINER]:    Waiting for all views to stop loading...
-[20.142][FINER]:    Done waiting for all views to stop loading
-[20.142][FINE]:     Command finished (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7/elements) with response {
-   "sessionId": "cf8d06d3c9f3d79aafe54e22d0e4f3e7",
+[25.471][FINER]:    Waiting for all views to stop loading...
+[25.472][FINER]:    Done waiting for all views to stop loading
+[25.478][FINER]:    Waiting for all views to stop loading...
+[25.479][FINER]:    Done waiting for all views to stop loading
+[25.479][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
    "status": 0,
-   "value": [  ]
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
 }
 
-[20.148][FINE]:     Command received (/session/cf8d06d3c9f3d79aafe54e22d0e4f3e7)
-[31.206][WARNING]:  Chrome still running, terminating...
-[31.206][INFO]:     Chrome shutdown
+[25.481][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[25.481][FINER]:    Waiting for all views to stop loading...
+[25.481][FINER]:    Done waiting for all views to stop loading
+[25.651][FINER]:    Waiting for all views to stop loading...
+[25.652][FINER]:    Done waiting for all views to stop loading
+[25.652][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[25.705][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[25.705][FINER]:    Waiting for all views to stop loading...
+[25.705][FINER]:    Done waiting for all views to stop loading
+[25.712][FINER]:    Waiting for all views to stop loading...
+[25.712][FINER]:    Done waiting for all views to stop loading
+[25.712][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[25.713][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[25.714][FINER]:    Waiting for all views to stop loading...
+[25.714][FINER]:    Done waiting for all views to stop loading
+[25.874][FINER]:    Waiting for all views to stop loading...
+[25.874][FINER]:    Done waiting for all views to stop loading
+[25.875][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[25.927][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[25.927][FINER]:    Waiting for all views to stop loading...
+[25.927][FINER]:    Done waiting for all views to stop loading
+[25.934][FINER]:    Waiting for all views to stop loading...
+[25.934][FINER]:    Done waiting for all views to stop loading
+[25.934][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[25.936][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[25.936][FINER]:    Waiting for all views to stop loading...
+[25.936][FINER]:    Done waiting for all views to stop loading
+[26.097][FINER]:    Waiting for all views to stop loading...
+[26.097][FINER]:    Done waiting for all views to stop loading
+[26.097][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[26.150][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[26.150][FINER]:    Waiting for all views to stop loading...
+[26.150][FINER]:    Done waiting for all views to stop loading
+[26.156][FINER]:    Waiting for all views to stop loading...
+[26.157][FINER]:    Done waiting for all views to stop loading
+[26.157][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[26.158][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[26.158][FINER]:    Waiting for all views to stop loading...
+[26.159][FINER]:    Done waiting for all views to stop loading
+[26.377][FINER]:    Waiting for all views to stop loading...
+[26.377][FINER]:    Done waiting for all views to stop loading
+[26.377][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[26.430][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[26.430][FINER]:    Waiting for all views to stop loading...
+[26.431][FINER]:    Done waiting for all views to stop loading
+[26.436][FINER]:    Waiting for all views to stop loading...
+[26.437][FINER]:    Done waiting for all views to stop loading
+[26.437][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[26.438][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[26.438][FINER]:    Waiting for all views to stop loading...
+[26.439][FINER]:    Done waiting for all views to stop loading
+[26.592][FINER]:    Waiting for all views to stop loading...
+[26.592][FINER]:    Done waiting for all views to stop loading
+[26.592][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[26.645][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[26.645][FINER]:    Waiting for all views to stop loading...
+[26.645][FINER]:    Done waiting for all views to stop loading
+[26.652][FINER]:    Waiting for all views to stop loading...
+[26.653][FINER]:    Done waiting for all views to stop loading
+[26.653][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[26.654][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[26.654][FINER]:    Waiting for all views to stop loading...
+[26.654][FINER]:    Done waiting for all views to stop loading
+[26.801][FINER]:    Waiting for all views to stop loading...
+[26.801][FINER]:    Done waiting for all views to stop loading
+[26.802][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[26.854][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[26.854][FINER]:    Waiting for all views to stop loading...
+[26.854][FINER]:    Done waiting for all views to stop loading
+[26.860][FINER]:    Waiting for all views to stop loading...
+[26.861][FINER]:    Done waiting for all views to stop loading
+[26.861][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[26.862][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[26.862][FINER]:    Waiting for all views to stop loading...
+[26.863][FINER]:    Done waiting for all views to stop loading
+[27.013][FINER]:    Waiting for all views to stop loading...
+[27.013][FINER]:    Done waiting for all views to stop loading
+[27.013][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[27.066][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[27.066][FINER]:    Waiting for all views to stop loading...
+[27.066][FINER]:    Done waiting for all views to stop loading
+[27.072][FINER]:    Waiting for all views to stop loading...
+[27.073][FINER]:    Done waiting for all views to stop loading
+[27.073][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[27.074][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[27.074][FINER]:    Waiting for all views to stop loading...
+[27.075][FINER]:    Done waiting for all views to stop loading
+[27.226][FINER]:    Waiting for all views to stop loading...
+[27.227][FINER]:    Done waiting for all views to stop loading
+[27.227][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[27.280][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[27.280][FINER]:    Waiting for all views to stop loading...
+[27.280][FINER]:    Done waiting for all views to stop loading
+[27.287][FINER]:    Waiting for all views to stop loading...
+[27.288][FINER]:    Done waiting for all views to stop loading
+[27.288][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[27.289][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[27.289][FINER]:    Waiting for all views to stop loading...
+[27.290][FINER]:    Done waiting for all views to stop loading
+[27.440][FINER]:    Waiting for all views to stop loading...
+[27.441][FINER]:    Done waiting for all views to stop loading
+[27.441][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[27.493][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[27.493][FINER]:    Waiting for all views to stop loading...
+[27.494][FINER]:    Done waiting for all views to stop loading
+[27.500][FINER]:    Waiting for all views to stop loading...
+[27.500][FINER]:    Done waiting for all views to stop loading
+[27.500][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[27.501][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[27.501][FINER]:    Waiting for all views to stop loading...
+[27.502][FINER]:    Done waiting for all views to stop loading
+[27.663][FINER]:    Waiting for all views to stop loading...
+[27.663][FINER]:    Done waiting for all views to stop loading
+[27.663][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[27.716][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[27.716][FINER]:    Waiting for all views to stop loading...
+[27.717][FINER]:    Done waiting for all views to stop loading
+[27.722][FINER]:    Waiting for all views to stop loading...
+[27.723][FINER]:    Done waiting for all views to stop loading
+[27.723][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[27.724][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[27.724][FINER]:    Waiting for all views to stop loading...
+[27.725][FINER]:    Done waiting for all views to stop loading
+[27.871][FINER]:    Waiting for all views to stop loading...
+[27.872][FINER]:    Done waiting for all views to stop loading
+[27.872][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[27.925][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[27.925][FINER]:    Waiting for all views to stop loading...
+[27.925][FINER]:    Done waiting for all views to stop loading
+[27.932][FINER]:    Waiting for all views to stop loading...
+[27.932][FINER]:    Done waiting for all views to stop loading
+[27.932][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[27.933][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[27.933][FINER]:    Waiting for all views to stop loading...
+[27.934][FINER]:    Done waiting for all views to stop loading
+[28.093][FINER]:    Waiting for all views to stop loading...
+[28.094][FINER]:    Done waiting for all views to stop loading
+[28.094][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[28.146][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[28.146][FINER]:    Waiting for all views to stop loading...
+[28.147][FINER]:    Done waiting for all views to stop loading
+[28.153][FINER]:    Waiting for all views to stop loading...
+[28.153][FINER]:    Done waiting for all views to stop loading
+[28.153][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[28.155][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[28.155][FINER]:    Waiting for all views to stop loading...
+[28.155][FINER]:    Done waiting for all views to stop loading
+[28.308][FINER]:    Waiting for all views to stop loading...
+[28.309][FINER]:    Done waiting for all views to stop loading
+[28.309][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[28.361][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[28.361][FINER]:    Waiting for all views to stop loading...
+[28.361][FINER]:    Done waiting for all views to stop loading
+[28.368][FINER]:    Waiting for all views to stop loading...
+[28.369][FINER]:    Done waiting for all views to stop loading
+[28.369][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[28.370][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[28.370][FINER]:    Waiting for all views to stop loading...
+[28.371][FINER]:    Done waiting for all views to stop loading
+[28.523][FINER]:    Waiting for all views to stop loading...
+[28.523][FINER]:    Done waiting for all views to stop loading
+[28.523][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[28.576][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[28.576][FINER]:    Waiting for all views to stop loading...
+[28.576][FINER]:    Done waiting for all views to stop loading
+[28.582][FINER]:    Waiting for all views to stop loading...
+[28.582][FINER]:    Done waiting for all views to stop loading
+[28.582][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[28.583][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[28.584][FINER]:    Waiting for all views to stop loading...
+[28.584][FINER]:    Done waiting for all views to stop loading
+[28.751][FINER]:    Waiting for all views to stop loading...
+[28.751][FINER]:    Done waiting for all views to stop loading
+[28.751][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[28.804][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[28.804][FINER]:    Waiting for all views to stop loading...
+[28.804][FINER]:    Done waiting for all views to stop loading
+[28.810][FINER]:    Waiting for all views to stop loading...
+[28.811][FINER]:    Done waiting for all views to stop loading
+[28.811][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[28.812][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[28.812][FINER]:    Waiting for all views to stop loading...
+[28.813][FINER]:    Done waiting for all views to stop loading
+[28.967][FINER]:    Waiting for all views to stop loading...
+[28.968][FINER]:    Done waiting for all views to stop loading
+[28.968][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[29.020][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[29.020][FINER]:    Waiting for all views to stop loading...
+[29.021][FINER]:    Done waiting for all views to stop loading
+[29.027][FINER]:    Waiting for all views to stop loading...
+[29.028][FINER]:    Done waiting for all views to stop loading
+[29.028][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[29.029][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[29.029][FINER]:    Waiting for all views to stop loading...
+[29.029][FINER]:    Done waiting for all views to stop loading
+[29.200][FINER]:    Waiting for all views to stop loading...
+[29.200][FINER]:    Done waiting for all views to stop loading
+[29.200][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[29.253][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[29.253][FINER]:    Waiting for all views to stop loading...
+[29.253][FINER]:    Done waiting for all views to stop loading
+[29.260][FINER]:    Waiting for all views to stop loading...
+[29.261][FINER]:    Done waiting for all views to stop loading
+[29.261][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[29.262][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[29.262][FINER]:    Waiting for all views to stop loading...
+[29.262][FINER]:    Done waiting for all views to stop loading
+[29.563][FINER]:    Waiting for all views to stop loading...
+[29.563][FINER]:    Done waiting for all views to stop loading
+[29.564][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[29.616][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[29.616][FINER]:    Waiting for all views to stop loading...
+[29.617][FINER]:    Done waiting for all views to stop loading
+[29.623][FINER]:    Waiting for all views to stop loading...
+[29.624][FINER]:    Done waiting for all views to stop loading
+[29.624][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[29.625][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[29.625][FINER]:    Waiting for all views to stop loading...
+[29.626][FINER]:    Done waiting for all views to stop loading
+[29.775][FINER]:    Waiting for all views to stop loading...
+[29.776][FINER]:    Done waiting for all views to stop loading
+[29.776][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[29.828][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with params {
+   "using": "xpath",
+   "value": "/html"
+}
+
+[29.829][FINER]:    Waiting for all views to stop loading...
+[29.829][FINER]:    Done waiting for all views to stop loading
+[29.835][FINER]:    Waiting for all views to stop loading...
+[29.836][FINER]:    Done waiting for all views to stop loading
+[29.836][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/elements) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": [ {
+      "ELEMENT": ":wdc:1358866935643"
+   } ]
+}
+
+[29.838][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text)
+[29.838][FINER]:    Waiting for all views to stop loading...
+[29.839][FINER]:    Done waiting for all views to stop loading
+[29.988][FINER]:    Waiting for all views to stop loading...
+[29.988][FINER]:    Done waiting for all views to stop loading
+[29.988][FINE]:     Command finished (/session/aff73647e03dc08c66fdcbcbabaf6a1a/element/:wdc:1358866935643/text) with response {
+   "sessionId": "aff73647e03dc08c66fdcbcbabaf6a1a",
+   "status": 0,
+   "value": "Elmar\nAlle vakanties\nWintersport\nVerre reizen\nStedenreizen\nAutovakanties\nContact Over Elmar Reisi..."
+}
+
+[30.008][FINE]:     Command received (/session/aff73647e03dc08c66fdcbcbabaf6a1a)
+[41.069][WARNING]:  Chrome still running, terminating...
+[41.069][INFO]:     Chrome shutdown

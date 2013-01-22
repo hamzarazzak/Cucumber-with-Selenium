@@ -1,4 +1,0 @@
-desc "Generate output that gets included in the book"
-task :output do
-  sh "cucumber features > out/book_room.out"
-end
